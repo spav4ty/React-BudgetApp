@@ -1,0 +1,42 @@
+{
+  "entries": [
+    {
+      "id": 1,
+      "description": "Expense"
+    },
+    {
+      "id": 3,
+      "description": "income"
+    },
+    {
+      "id": 4,
+      "description": "income"
+    },
+    {
+      "id": 5,
+      "description": "income"
+    }
+  ],
+  "values": [
+    {
+      "id": 1,
+      "value": 100,
+      "isExpense": true
+    },
+    {
+      "id": 3,
+      "value": 1000,
+      "isExpense": true
+    },
+    {
+      "id": 4,
+      "value": 10,
+      "isExpense": false
+    },
+    {
+      "id": 5,
+      "value": 100,
+      "isExpense": false
+    }
+  ]
+}
